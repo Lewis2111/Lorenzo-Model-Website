@@ -1,0 +1,15 @@
+html{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkturquoise;
+    color: black;
+}
+
+.home img {
+    float: inline-start;
+    min-width: fit-content;
+    width: 400px;
+}
+
